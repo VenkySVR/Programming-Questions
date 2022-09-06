@@ -1,4 +1,3 @@
-// Given a string s, find the longest palindromic substring in s.
 // https://youtu.be/ZJUGtWObroc
 
 #include<bits/stdc++.h>
